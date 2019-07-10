@@ -1,2 +1,1 @@
-# ivy-project
-ivy-project
+# IvyProject
